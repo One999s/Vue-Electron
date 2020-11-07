@@ -2,12 +2,13 @@
 
 > super
 
+#### Build Setup
+``` bash
 #注意事项
+
 装包时如果超时错误一般是electron安装超时,
 手动项目内添加 yarn add electron
 还不行的话在已经手动添加electron后删包重装就不会有超时错误
-#### Build Setup
-``` bash
 # install dependencies
 npm install
 
